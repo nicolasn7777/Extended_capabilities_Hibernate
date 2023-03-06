@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.slf4j:slf4j-reload4j:2.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-reload4j/2.0.6/22dfed739b8e07f41cf988800e17b2139c1eca94/slf4j-reload4j-2.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-reload4j/2.0.6/171593d3674fd0d6a7d85e2f603fa0459f40e11f/slf4j-reload4j-2.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
